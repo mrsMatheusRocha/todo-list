@@ -417,19 +417,26 @@ companion object {
 ## 📸 Evidências e Screenshots
 
 ### Tela de Lista de Tarefas
-![Tela Inicial.png](docs/Tela%20Inicial.png)
+Exibe:
+- TopAppBar com título "Minhas Tarefas"
+- FloatingActionButton para nova tarefa
+- Lista de tarefas com checkbox, título, descrição e botão de deleção
+- Mensagem de lista vazia quando não há tarefas
 
 ### Tela de Formulário - Nova Tarefa
-![Criação de Tarefa.png](docs/Cria%C3%A7%C3%A3o%20de%20Tarefa.png)
+Exibe:
+- TopAppBar com título "Nova Tarefa"
+- Campo de entrada para título
+- Campo de entrada para descrição
+- Botão "Salvar" (desabilitado se título está vazio)
+- Ícone de voltar para retornar à lista
 
 ### Tela de Formulário - Editar Tarefa
-![Edição de Tarefa.png](docs/Edi%C3%A7%C3%A3o%20de%20Tarefa.png)
-
-### Tela de Lista de Tarefas Concluidas
-![Tarefa Concluida.png](docs/Tarefa%20Concluida.png)
-
-### Tela do Build sem Erros
-![Build sem Erros.png](docs/Build%20sem%20Erros.png)
+Exibe:
+- TopAppBar com título "Editar Tarefa"
+- Campos preenchidos com dados existentes
+- Possibilidade de modificar título e descrição
+- Botão "Salvar" com valores atualizados
 
 ---
 
