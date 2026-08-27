@@ -417,22 +417,19 @@ companion object {
 ## 📸 Evidências e Screenshots
 
 ### Tela de Lista de Tarefas
-<img alt="Tela Inicial.png" height="200" src="docs/Tela%20Inicial.png"/>
+<img alt="Tela Inicial.png" height="400" src="docs/Tela%20Inicial.png"/>
 
 ### Tela de Formulário - Nova Tarefa
-Exibe:
-- TopAppBar com título "Nova Tarefa"
-- Campo de entrada para título
-- Campo de entrada para descrição
-- Botão "Salvar" (desabilitado se título está vazio)
-- Ícone de voltar para retornar à lista
+<img alt="Criação de Tarefa.png" height="400" src="docs/Cria%C3%A7%C3%A3o%20de%20Tarefa.png"/>
 
 ### Tela de Formulário - Editar Tarefa
-Exibe:
-- TopAppBar com título "Editar Tarefa"
-- Campos preenchidos com dados existentes
-- Possibilidade de modificar título e descrição
-- Botão "Salvar" com valores atualizados
+<img alt="Edição de Tarefa.png" height="400" src="docs/Edi%C3%A7%C3%A3o%20de%20Tarefa.png"/>
+
+### Tela de Formulário - Conclusão Tarefa
+<img alt="Tarefa Concluida.png" height="400" src="docs/Tarefa%20Concluida.png"/>
+
+### Tela de Build - Sem Erros
+<img alt="Build sem Erros.png" height="400" src="docs/Build%20sem%20Erros.png"/>
 
 ---
 
