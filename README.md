@@ -417,7 +417,7 @@ companion object {
 ## 📸 Evidências e Screenshots
 
 ### Tela de Lista de Tarefas
-![Tela Inicial.png](docs/Tela%20Inicial.png)
+<img alt="Tela Inicial.png" height="200" src="docs/Tela%20Inicial.png"/>
 
 ### Tela de Formulário - Nova Tarefa
 Exibe:
@@ -541,40 +541,11 @@ implementation(libs.androidx.lifecycle.runtime.ktx)
 
 ---
 
-## 🔧 Possíveis Melhorias Futuras
-
-- [ ] Adição de datas de vencimento para tarefas
-- [ ] Categorias/tags para organizar tarefas
-- [ ] Busca e filtro avançado
-- [ ] Sincronização com servidor
-- [ ] Backup automático
-- [ ] Notificações de tarefas vencidas
-- [ ] Modo escuro (Dark Mode)
-- [ ] Diálogo de confirmação ao deletar
-- [ ] Undo/Redo de ações
-
----
-
-## 📄 Licença
-
-Este projeto é fornecido como material educacional.
-
----
-
 ## 👤 Autor
 
 **Desenvolvedor**: Matheus Rocha  
 **GitHub**: [@mrsMatheusRocha](https://github.com/mrsMatheusRocha)  
 **Data**: 2026
-
----
-
-## 📞 Suporte
-
-Para dúvidas ou sugestões sobre o projeto:
-1. Abra uma [Issue](https://github.com/mrsMatheusRocha/todo-list/issues)
-2. Faça um Pull Request com melhorias
-3. Entre em contato através do perfil do GitHub
 
 ---
 
