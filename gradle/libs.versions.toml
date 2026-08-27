@@ -35,6 +35,7 @@ androidx-room-ktx = { group = "androidx.room", name = "room-ktx", version.ref = 
 androidx-room-compiler = { group = "androidx.room", name = "room-compiler", version.ref = "room" }
 androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
 kotlinx-coroutines-test = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-test", version.ref = "coroutinesTest" }
+androidx-compose-material-icons-core = { group = "androidx.compose.material", name = "material-icons-core" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
