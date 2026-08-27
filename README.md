@@ -417,11 +417,7 @@ companion object {
 ## 📸 Evidências e Screenshots
 
 ### Tela de Lista de Tarefas
-Exibe:
-- TopAppBar com título "Minhas Tarefas"
-- FloatingActionButton para nova tarefa
-- Lista de tarefas com checkbox, título, descrição e botão de deleção
-- Mensagem de lista vazia quando não há tarefas
+
 
 ### Tela de Formulário - Nova Tarefa
 Exibe:
@@ -545,26 +541,6 @@ implementation(libs.androidx.lifecycle.runtime.ktx)
 
 ---
 
-## 🔧 Possíveis Melhorias Futuras
-
-- [ ] Adição de datas de vencimento para tarefas
-- [ ] Categorias/tags para organizar tarefas
-- [ ] Busca e filtro avançado
-- [ ] Sincronização com servidor
-- [ ] Backup automático
-- [ ] Notificações de tarefas vencidas
-- [ ] Modo escuro (Dark Mode)
-- [ ] Diálogo de confirmação ao deletar
-- [ ] Undo/Redo de ações
-
----
-
-## 📄 Licença
-
-Este projeto é fornecido como material educacional.
-
----
-
 ## 👤 Autor
 
 **Desenvolvedor**: Matheus Rocha  
@@ -572,14 +548,3 @@ Este projeto é fornecido como material educacional.
 **Data**: 2026
 
 ---
-
-## 📞 Suporte
-
-Para dúvidas ou sugestões sobre o projeto:
-1. Abra uma [Issue](https://github.com/mrsMatheusRocha/todo-list/issues)
-2. Faça um Pull Request com melhorias
-3. Entre em contato através do perfil do GitHub
-
----
-
-**Desenvolvido com ❤️ usando Kotlin e Jetpack Compose**
