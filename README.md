@@ -417,11 +417,7 @@ companion object {
 ## 📸 Evidências e Screenshots
 
 ### Tela de Lista de Tarefas
-Exibe:
-- TopAppBar com título "Minhas Tarefas"
-- FloatingActionButton para nova tarefa
-- Lista de tarefas com checkbox, título, descrição e botão de deleção
-- Mensagem de lista vazia quando não há tarefas
+![Tela Inicial.png](docs/Tela%20Inicial.png)
 
 ### Tela de Formulário - Nova Tarefa
 Exibe:
