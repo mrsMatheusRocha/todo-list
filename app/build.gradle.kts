@@ -60,6 +60,11 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     androidTestImplementation(libs.kotlinx.coroutines.test)
+    implementation(libs.androidx.room.runtime)
+    implementation(libs.androidx.room.ktx)
+    ksp(libs.androidx.room.compiler)
+    implementation(libs.androidx.compose.material3)
+    implementation(libs.androidx.navigation.compose)
 
     debugImplementation(libs.androidx.compose.ui.test.manifest)
 }
